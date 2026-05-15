@@ -1,8 +1,8 @@
 # Hi, I'm Soumyadip Mukherjee
 
-Applied AI and Data Science professional with a background in Physics and Computational Data Science from IISER Berhampur. I work at the intersection of AI systems, NLP, analytics, and scalable backend workflows with a strong focus on building practical, deployment-oriented intelligent applications.
+Agentic AI and Python backend developer with a academic major in Physics and minor in Computer and Data Science from Indian Institute of Science Education and Research(IISER) Berhampur. I try to build cool projects at the intersection of AI systems, NLP, analytics, and scalable backend workflows with a strong focus on building practical, deployment-oriented intelligent applications that can serve utility to the community.
 
-My experience spans:
+My experience(or expertise) spans:
 
 * Natural Language Processing (NLP)
 * Multimodal Machine Learning
@@ -22,8 +22,7 @@ I have worked on projects involving:
 
 Currently exploring:
 
-* Applied AI Engineering
-* Generative AI Systems
+* Applied and agentic AI Engineering
 * FastAPI & scalable backend architectures
 * Vector databases & semantic retrieval
 * AI-powered enterprise analytics platforms
@@ -38,11 +37,11 @@ Currently exploring:
 
 ## Current Focus
 
-Building AI systems that solve real operational and enterprise problems through:
+Building AI systems that solve real operational problems through:
 
 * intelligent automation
 * analytics-driven insights
 * scalable AI workflows
 * multimodal data processing
 
-Always interested in collaborating on impactful AI, analytics, and software engineering projects.
+Always interested in collaborating on impactful AI, analytics, and software engineering projects. Ping me at https://www.linkedin.com/in/isoumyadipm08/ for tech discussions/collaborations.
